@@ -23,4 +23,4 @@ def endex(request):
     return render(request, 'endex.html')
 
 def Web_sahifa(request):
-    return render(request, 'Web_sahifa.html')
+    return render(request, 'Web sahifa.html')
